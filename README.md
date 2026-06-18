@@ -208,7 +208,7 @@ My goal is to grow from **Odoo Developer** toward **ERP Technical Architect / Py
 
 * GitHub: [github.com/Saifullahshaikh](https://github.com/Saifullahshaikh)
 * LinkedIn: [linkedin.com/in/saifullah-shaikh](https://www.linkedin.com/in/saifullah-shaikh/)
-* Email: [saifullah@students.uit.edu](mailto:saifullah@students.uit.edu)
+* Email: [saifullah.freelancework@gmail.com](mailto:saifullah.freelancework@gmail.com)
 
 ---
 
