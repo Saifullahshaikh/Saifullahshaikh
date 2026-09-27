@@ -161,7 +161,6 @@ Repository: `FastAPI-Blog-API`
 
 ## 🖼️ Screenshots & Demo Preview
 
-> Add your project screenshots inside an `assets` folder and update the image paths below.
 
 ### Odoo Dashboard / ERP Automation
 
