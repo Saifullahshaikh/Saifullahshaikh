@@ -1,28 +1,25 @@
 # Hi, I'm Saifullah Shaikh 👋
 
-### Odoo Technical Lead | Python Backend Developer | ERP Integrations | AI-Powered Business Automation
+### Odoo Technical Lead | Odoo 13–19 | Python Backend Developer | ERP Integrations | PostgreSQL | Docker
 
-I am a **BS Computer Science graduate** and an **Odoo / Python Developer** with hands-on experience in building, customizing, integrating, and supporting ERP systems for real business operations.
+I am a **Computer Science graduate and Odoo/Python technical consultant** with hands-on experience designing, customizing, integrating, deploying, and supporting ERP solutions for real business operations.
 
-My work focuses on **Odoo ERP customization, Python backend development, API integrations, PostgreSQL, Docker deployments, reports, POS, inventory, accounting, eCommerce, HR, and business process automation**.
-
-Currently, I am strengthening my profile toward:
-
-> **Odoo Technical Architect + Python Backend Engineer + AI Automation for ERP Systems**
+My work focuses on **Odoo ERP development, Python backend engineering, API integrations, PostgreSQL, Docker/Odoo.sh deployments, POS, Inventory, Accounting, Manufacturing, Website/eCommerce, HR, reporting, and business process automation**.
 
 ---
 
-## 🚀 What I Do
+## 🚀 Core Expertise
 
-* Odoo custom module development
-* Odoo reports, QWeb, XML views, XPath inheritance
-* Sales, Purchase, Inventory, Accounting, POS, Website, HR, Documents
-* API integrations with logistics, payment systems, biometric devices, WhatsApp, and external platforms
-* Python backend development using FastAPI, Django, and Flask
-* PostgreSQL database design and troubleshooting
-* Docker-based Odoo and backend deployments
-* ERP automation, dashboards, workflows, and business logic customization
-* AI-powered business automation and ERP assistant concepts
+- Odoo custom module development and framework customization
+- Python backend development with FastAPI, Django, and Flask
+- Odoo ORM, controllers, scheduled actions, automated actions, and business logic
+- QWeb reports, XML views, XPath inheritance, portal and website customization
+- REST APIs, JSON/JSON-RPC integrations, webhooks, and external service connectivity
+- PostgreSQL troubleshooting, SQL, data migration, and reporting
+- POS integrations, fiscal/payment APIs, logistics and eCommerce integrations
+- Sales, Purchase, Inventory, Accounting, Manufacturing, CRM, HR, Website and Documents
+- Docker, Linux, Odoo.sh, Nginx, Git, GitHub/GitLab and deployment workflows
+- AI-assisted ERP automation and backend workflow optimization
 
 ---
 
@@ -30,189 +27,146 @@ Currently, I am strengthening my profile toward:
 
 ### ERP & Odoo
 
-![Odoo](https://img.shields.io/badge/Odoo-ERP-714B67?style=for-the-badge\&logo=odoo\&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-13--19-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![QWeb](https://img.shields.io/badge/QWeb-Reports-blue?style=for-the-badge)
 ![XML](https://img.shields.io/badge/XML-Views-orange?style=for-the-badge)
 
 ### Backend
 
-![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Web-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Microservices-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Web-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Microservices-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Database & DevOps
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Deployment-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-### AI & Automation
-
-![AI Automation](https://img.shields.io/badge/AI-Automation-purple?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-Integration-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🧩 Odoo Versions
+## 🧩 Odoo Experience
 
-I have worked with and customized Odoo across multiple versions:
-
-| Version | Experience                                                                     |
-| ------- | ------------------------------------------------------------------------------ |
-| Odoo 14 | Custom modules, reports, accounting, inventory                                 |
-| Odoo 15 | Sales, stock, accounting, reports, workflows                                   |
-| Odoo 16 | Backend customization, views, automation, integrations                         |
-| Odoo 17 | Docker deployment, modules, reports, website, inventory                        |
-| Odoo 18 | Enterprise implementation, website/eCommerce, documents, logistics integration |
-| Odoo 19 | Migration planning and learning roadmap                                        |
-
----
-
-## 🌟 Featured Projects
-
-### 1. Smart ERP Copilot for Odoo
-
-**AI-powered assistant for Odoo ERP automation**
-
-A planned flagship project that connects Odoo with a Python FastAPI backend to provide AI-based ERP assistance.
-
-**Key Features**
-
-* Customer history summary
-* Quotation note generator
-* Invoice payment reminder generator
-* Helpdesk ticket summarizer
-* Overdue invoice detection
-* Odoo JSON-RPC integration
-* FastAPI backend
-* PostgreSQL database
-* Docker Compose setup
-
-**Tech Stack:** Odoo, Python, FastAPI, PostgreSQL, Docker, AI APIs, JSON-RPC
-
-Repository: `odoo-ai-erp-copilot`
+| Version | Experience |
+| --- | --- |
+| Odoo 13 | Community implementations, custom modules, migration analysis |
+| Odoo 14 | Custom modules, reports, accounting, inventory, portal |
+| Odoo 15 | Sales, stock, accounting, reports, workflows, ZATCA-related work |
+| Odoo 16 | Backend customization, views, automation, integrations, POS |
+| Odoo 17 | Docker deployment, inventory, website, reporting, infrastructure |
+| Odoo 18 | Enterprise customization, POS, purchase, stock, HR, integrations |
+| Odoo 19 | Selective invoicing, invoice merge logic, website/portal work, migration planning |
 
 ---
 
-### 2. Odoo Integration Hub
+## 🌟 Featured Technical Work
 
-**Reusable integration layer for Odoo and external business systems**
+### Odoo Integrations & Automation
 
-This project focuses on connecting Odoo with third-party systems using clean backend APIs.
+Implemented and supported integrations involving:
 
-**Key Features**
+- Payment and fiscal APIs
+- Logistics and courier services
+- eCommerce and order synchronization
+- Attendance/biometric devices
+- External REST/JSON services
+- POS terminals and service-charge workflows
 
-* Logistics API integration
-* WhatsApp/email notification demo
-* Biometric attendance device connector
-* eCommerce order sync
-* Payment status sync
-* API logging and retry mechanism
+### Odoo POS & Accounting Customization
 
-**Tech Stack:** Odoo, Python, FastAPI, PostgreSQL, Docker, REST APIs
+Worked on advanced scenarios including:
 
-Repository: `odoo-integration-hub-fastapi`
+- POS payment flow extensions
+- External fiscal API submission
+- Service-charge logic
+- Tax and discount handling
+- Refund scenarios
+- Invoice and accounting report customization
+- Selective invoice creation and consolidated invoice logic
 
----
+### Inventory & Manufacturing
 
-### 3. Odoo Migration Audit Tool
+Experience includes:
 
-**Code quality and migration helper for Odoo custom modules**
+- Stock access controls
+- Internal transfer workflows
+- Lot/serial handling
+- Stock reporting
+- POS-to-Manufacturing workflows
+- BOM and kit handling
+- Availability and shortage checks
 
-A Python-based tool to scan custom Odoo modules and identify migration risks.
+### Backend & Infrastructure
 
-**Key Features**
-
-* Manifest validation
-* Deprecated method detection
-* XML view issue detection
-* Missing access rights checker
-* Dependency graph
-* Migration checklist from Odoo 13 to newer versions
-
-**Tech Stack:** Python, Odoo, XML, PostgreSQL, CLI Tools
-
-Repository: `odoo-migration-audit-tool`
-
----
-
-### 4. FastAPI Blog API
-
-**Backend API project with authentication and PostgreSQL**
-
-A backend API project focused on clean API structure, authentication, and database operations.
-
-**Key Features**
-
-* User registration
-* Login with JWT authentication
-* Blog posts
-* Comments
-* PostgreSQL integration
-* API validation
-
-**Tech Stack:** Python, FastAPI, PostgreSQL, JWT, Docker
-
-Repository: `FastAPI-Blog-API`
+- FastAPI, Django and Flask backend services
+- PostgreSQL and SQL
+- Docker Compose deployments
+- Linux server troubleshooting
+- Nginx and reverse proxy setup
+- Odoo.sh workflows
+- Git-based deployment and environment management
 
 ---
 
-## 🖼️ Screenshots & Demo Preview
+## 🔨 Portfolio Projects
 
+### Odoo Portal Timesheet Customization
 
-### Odoo Dashboard / ERP Automation
+A focused Odoo customization allowing portal users to submit timesheet entries while remaining restricted to portal-level access.
 
-![Odoo Dashboard](assets/odoo-dashboard.png)
+**Focus:** Odoo controllers, QWeb, ORM, portal security, validation
 
-### AI ERP Copilot
+### Blog Application API
 
-![AI ERP Copilot](assets/ai-erp-copilot.png)
+Python backend API project demonstrating modular backend structure, validation, authentication concepts, and database-backed application development.
 
-### API Documentation
+**Focus:** Python, REST APIs, backend architecture
 
-![API Documentation](assets/api-docs.png)
+### Upcoming Public Portfolio Work
 
-### Integration Flow
+I am progressively publishing sanitized, reusable versions of real-world technical patterns I have worked with, including:
 
-![Integration Flow](assets/integration-flow.png)
+- Odoo integration services
+- Odoo migration/code-quality tooling
+- ERP automation utilities
+- Docker-based Odoo deployment examples
+
+Client-specific source code and confidential implementations are not published publicly.
 
 ---
 
 ## 📌 Current Focus
 
-I am currently focusing on building advanced portfolio projects around:
-
-* Odoo ERP automation
-* AI-powered ERP assistants
-* FastAPI + Odoo integrations
-* ERP dashboards and reporting
-* Odoo migration and code quality tools
-* Scalable Docker-based deployment
-
-My goal is to grow from **Odoo Developer** toward **ERP Technical Architect / Python Backend Engineer for Business Automation**.
+- Odoo technical architecture
+- ERP integrations
+- Python/FastAPI backend engineering
+- Odoo 18/19 customization
+- Migration and modernization
+- Docker-based deployment
+- AI-assisted ERP automation
 
 ---
 
 ## 📊 GitHub Stats
 
-![Saifullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saifullahshaikh\&show_icons=true\&theme=default)
+![Saifullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saifullahshaikh&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullahshaikh\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifullahshaikh&layout=compact)
 
 ---
 
 ## 🤝 Connect With Me
 
-* GitHub: [github.com/Saifullahshaikh](https://github.com/Saifullahshaikh)
-* LinkedIn: [linkedin.com/in/saifullah-shaikh](https://www.linkedin.com/in/saifullah-shaikh/)
-* Email: [saifullah.freelancework@gmail.com](mailto:saifullah.freelancework@gmail.com)
+- GitHub: [github.com/Saifullahshaikh](https://github.com/Saifullahshaikh)
+- LinkedIn: [linkedin.com/in/saifullah-shaikh](https://www.linkedin.com/in/saifullah-shaikh/)
+- Email: [saifullah.freelancework@gmail.com](mailto:saifullah.freelancework@gmail.com)
 
 ---
 
 ## 💼 Professional Summary
 
-I help businesses implement, customize, integrate, and scale Odoo ERP systems. My experience includes custom modules, reports, workflows, dashboards, API integrations, server deployment, and troubleshooting real business problems across Sales, Inventory, Accounting, POS, Website/eCommerce, HR, and Documents.
+I help businesses implement, customize, integrate, migrate, and scale Odoo ERP systems. My experience spans technical development, functional understanding, integrations, deployment, troubleshooting, and team-level delivery across multiple Odoo versions and business modules.
 
-I am passionate about combining **ERP domain expertise** with **Python backend development** and **AI automation** to build smarter business systems.
+My long-term focus is **ERP technical architecture, Python backend engineering, and scalable business automation**.
